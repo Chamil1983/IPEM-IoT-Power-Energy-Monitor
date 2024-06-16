@@ -86,7 +86,7 @@ board variants will have FOUR CT inputs.
 		 - 1 x Phase Neutral CT Clamp
 		 - DMA Mode (Logging via SPI)
 		 - Power Modes Settings
-		 - Auto DMA selection opton via GP12
+		 - Auto DMA selection option via GP12
  - **24C64** EEPROM 
 	 - Parameter Settings
 	 - Logging
